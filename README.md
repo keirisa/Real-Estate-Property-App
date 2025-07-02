@@ -12,7 +12,7 @@ An iOS application built using UIKit and Core Data that allows users to search f
 
 | Login/Register | Property Search | Favorites List |
 |----------------|------------------|----------------|
-| ![Login](https://via.placeholder.com/150x300.png?text=Login) | ![Search](https://via.placeholder.com/150x300.png?text=Search) | ![Favorites](https://via.placeholder.com/150x300.png?text=Favorites) |
+| ![realestate_login](https://github.com/user-attachments/assets/ac2eacd8-23f3-44f6-9e58-3f7bc4a86879) | ![realestate_filter](https://github.com/user-attachments/assets/c97bc26e-c98a-4f06-9982-0f50a21ab0b7) | ![realestate_fav](https://github.com/user-attachments/assets/505a0a35-1f6e-4386-a034-d04b5d8d240b) |
 
 ---
 
